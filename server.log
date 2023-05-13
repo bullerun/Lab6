@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-06T05:13:14.447288500Z</date>
+  <millis>1683349994447</millis>
+  <nanos>288500</nanos>
+  <sequence>0</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>�������� ��������� �������</message>
+</record>
+<record>
+  <date>2023-05-06T05:13:14.466294500Z</date>
+  <millis>1683349994466</millis>
+  <nanos>294500</nanos>
+  <sequence>1</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>����������� ��������� ������� ��������� �������</message>
+</record>
+<record>
+  <date>2023-05-06T05:13:14.473296900Z</date>
+  <millis>1683349994473</millis>
+  <nanos>296900</nanos>
+  <sequence>2</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>����� ������� ���������</message>
+</record>
+<record>
+  <date>2023-05-06T05:13:36.654165200Z</date>
+  <millis>1683350016654</millis>
+  <nanos>165200</nanos>
+  <sequence>3</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>���������� ������������ ������</message>
+</record>
+<record>
+  <date>2023-05-06T05:13:36.655162700Z</date>
+  <millis>1683350016655</millis>
+  <nanos>162700</nanos>
+  <sequence>4</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>������������ ������ ���������</message>
+</record>
+<record>
+  <date>2023-05-06T05:13:36.656163700Z</date>
+  <millis>1683350016656</millis>
+  <nanos>163700</nanos>
+  <sequence>5</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>����� ������� ���������</message>
+</record>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-06T07:49:21.394320600Z</date>
+  <millis>1683359361394</millis>
+  <nanos>320600</nanos>
+  <sequence>0</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T07:49:21.414340800Z</date>
+  <millis>1683359361414</millis>
+  <nanos>340800</nanos>
+  <sequence>1</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>закончилась обработка команды обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T07:49:21.421328100Z</date>
+  <millis>1683359361421</millis>
+  <nanos>328100</nanos>
+  <sequence>2</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<record>
+  <date>2023-05-06T07:56:55.227306700Z</date>
+  <millis>1683359815227</millis>
+  <nanos>306700</nanos>
+  <sequence>3</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T07:56:55.244309Z</date>
+  <millis>1683359815244</millis>
+  <nanos>309000</nanos>
+  <sequence>4</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T07:56:55.246310200Z</date>
+  <millis>1683359815246</millis>
+  <nanos>310200</nanos>
+  <sequence>5</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<record>
+  <date>2023-05-06T07:57:49.595738200Z</date>
+  <millis>1683359869595</millis>
+  <nanos>738200</nanos>
+  <sequence>6</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T07:57:49.596738400Z</date>
+  <millis>1683359869596</millis>
+  <nanos>738400</nanos>
+  <sequence>7</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>закончилась обработка команды обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T07:57:49.597739100Z</date>
+  <millis>1683359869597</millis>
+  <nanos>739100</nanos>
+  <sequence>8</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<record>
+  <date>2023-05-06T07:57:57.692917500Z</date>
+  <millis>1683359877692</millis>
+  <nanos>917500</nanos>
+  <sequence>9</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T07:57:57.694917500Z</date>
+  <millis>1683359877694</millis>
+  <nanos>917500</nanos>
+  <sequence>10</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>закончилась обработка команды обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T07:57:57.695917700Z</date>
+  <millis>1683359877695</millis>
+  <nanos>917700</nanos>
+  <sequence>11</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<record>
+  <date>2023-05-06T07:58:45.053639100Z</date>
+  <millis>1683359925053</millis>
+  <nanos>639100</nanos>
+  <sequence>12</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T07:58:45.055639500Z</date>
+  <millis>1683359925055</millis>
+  <nanos>639500</nanos>
+  <sequence>13</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T07:58:45.056640500Z</date>
+  <millis>1683359925056</millis>
+  <nanos>640500</nanos>
+  <sequence>14</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<record>
+  <date>2023-05-06T08:00:42.066909400Z</date>
+  <millis>1683360042066</millis>
+  <nanos>909400</nanos>
+  <sequence>15</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>добавление лабораторной работы</message>
+</record>
+<record>
+  <date>2023-05-06T08:00:42.068910100Z</date>
+  <millis>1683360042068</millis>
+  <nanos>910100</nanos>
+  <sequence>16</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>лабораторная работа добавлена</message>
+</record>
+<record>
+  <date>2023-05-06T08:00:42.069912800Z</date>
+  <millis>1683360042069</millis>
+  <nanos>912800</nanos>
+  <sequence>17</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<record>
+  <date>2023-05-06T08:00:48.130109300Z</date>
+  <millis>1683360048130</millis>
+  <nanos>109300</nanos>
+  <sequence>18</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>acceptConsoleInput</method>
+  <thread>1</thread>
+  <message>завершение работы</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-06T08:01:22.486072800Z</date>
+  <millis>1683360082486</millis>
+  <nanos>72800</nanos>
+  <sequence>0</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T08:01:22.509079600Z</date>
+  <millis>1683360082509</millis>
+  <nanos>79600</nanos>
+  <sequence>1</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>закончилась обработка команды обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T08:01:22.517080400Z</date>
+  <millis>1683360082517</millis>
+  <nanos>80400</nanos>
+  <sequence>2</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<record>
+  <date>2023-05-06T08:01:29.490105600Z</date>
+  <millis>1683360089490</millis>
+  <nanos>105600</nanos>
+  <sequence>3</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T08:01:29.493106200Z</date>
+  <millis>1683360089493</millis>
+  <nanos>106200</nanos>
+  <sequence>4</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>закончилась обработка команды обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T08:01:29.496106900Z</date>
+  <millis>1683360089496</millis>
+  <nanos>106900</nanos>
+  <sequence>5</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-06T08:01:46.686754200Z</date>
+  <millis>1683360106686</millis>
+  <nanos>754200</nanos>
+  <sequence>0</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T08:01:46.706758800Z</date>
+  <millis>1683360106706</millis>
+  <nanos>758800</nanos>
+  <sequence>1</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>закончилась обработка команды обработка команды</message>
+</record>
+<record>
+  <date>2023-05-06T08:01:46.714760800Z</date>
+  <millis>1683360106714</millis>
+  <nanos>760800</nanos>
+  <sequence>2</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-06T08:14:26.842133100Z</date>
+  <millis>1683360866842</millis>
+  <nanos>133100</nanos>
+  <sequence>0</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>�������� ��������� �������</message>
+</record>
+<record>
+  <date>2023-05-06T08:14:26.885142200Z</date>
+  <millis>1683360866885</millis>
+  <nanos>142200</nanos>
+  <sequence>1</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>�������� ��������� �������</message>
+</record>
+<record>
+  <date>2023-05-06T08:14:26.893144500Z</date>
+  <millis>1683360866893</millis>
+  <nanos>144500</nanos>
+  <sequence>2</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>����� ������� ���������</message>
+</record>
+<record>
+  <date>2023-05-06T08:15:06.970246300Z</date>
+  <millis>1683360906970</millis>
+  <nanos>246300</nanos>
+  <sequence>3</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>�������� ��������� �������</message>
+</record>
+<record>
+  <date>2023-05-06T08:15:06.972246400Z</date>
+  <millis>1683360906972</millis>
+  <nanos>246400</nanos>
+  <sequence>4</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>�������� ��������� �������</message>
+</record>
+<record>
+  <date>2023-05-06T08:15:06.974247200Z</date>
+  <millis>1683360906974</millis>
+  <nanos>247200</nanos>
+  <sequence>5</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>����� ������� ���������</message>
+</record>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-06T08:34:04.763430800Z</date>
+  <millis>1683362044763</millis>
+  <nanos>430800</nanos>
+  <sequence>0</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T08:34:04.805442100Z</date>
+  <millis>1683362044805</millis>
+  <nanos>442100</nanos>
+  <sequence>1</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T08:34:04.815443600Z</date>
+  <millis>1683362044815</millis>
+  <nanos>443600</nanos>
+  <sequence>2</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<record>
+  <date>2023-05-06T08:35:11.491905Z</date>
+  <millis>1683362111491</millis>
+  <nanos>905000</nanos>
+  <sequence>3</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T08:35:11.493905400Z</date>
+  <millis>1683362111493</millis>
+  <nanos>905400</nanos>
+  <sequence>4</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T08:35:11.494904Z</date>
+  <millis>1683362111494</millis>
+  <nanos>904000</nanos>
+  <sequence>5</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<record>
+  <date>2023-05-06T08:40:53.145745700Z</date>
+  <millis>1683362453145</millis>
+  <nanos>745700</nanos>
+  <sequence>6</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T08:40:53.148745700Z</date>
+  <millis>1683362453148</millis>
+  <nanos>745700</nanos>
+  <sequence>7</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T08:40:53.151749600Z</date>
+  <millis>1683362453151</millis>
+  <nanos>749600</nanos>
+  <sequence>8</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
+<record>
+  <date>2023-05-06T08:41:38.192799700Z</date>
+  <millis>1683362498192</millis>
+  <nanos>799700</nanos>
+  <sequence>9</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T08:41:38.194797400Z</date>
+  <millis>1683362498194</millis>
+  <nanos>797400</nanos>
+  <sequence>10</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>началась обработка скрипта</message>
+</record>
+<record>
+  <date>2023-05-06T08:41:38.195797400Z</date>
+  <millis>1683362498195</millis>
+  <nanos>797400</nanos>
+  <sequence>11</sequence>
+  <logger>log</logger>
+  <level>INFO</level>
+  <class>me.lab6.server.ServerInstance</class>
+  <method>handleRequests</method>
+  <thread>1</thread>
+  <message>ответ клиенту отправлен</message>
+</record>
